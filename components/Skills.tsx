@@ -19,7 +19,7 @@ const languages = [
 const frameworks = [
 
   // { name: "Angular", logo: "/ng.png" },
-  { name: "Node & Express", logo: "NodeJs.png" },
+  { name: "Node & Express", logo: "NodeJS.png" },
   { name: "React", logo: "React.png" },
   { name: "Next", logo: "next.webp" },
   { name: "Laravel", logo: "laravel.png" },
