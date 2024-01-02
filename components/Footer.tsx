@@ -5,14 +5,14 @@ import Link from "next/link";
 import {links} from "@/lib/links"
 const contacts = [
   {
-    img: "GitHub.png",
+    img: "github.png",
     alt: "github icon",
     href: links.git,
     text: "pallishreeb",
     size: 30,
   },
   {
-    img: "Linkedin.png",
+    img: "linkedin.png",
     alt: "linkedin icon",
     href: links.linkedin,
     text: "@pb121097",
