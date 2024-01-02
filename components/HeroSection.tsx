@@ -96,7 +96,7 @@ export default function HeroSection() {
         {/* Image Section (Assuming you have an image file in the public folder) */}
         <div className="flex-2">
           <Image
-            src="/dev5.svg"
+            src="dev5.svg"
             height={580}
             width={600}
             alt="Your Alt Text"

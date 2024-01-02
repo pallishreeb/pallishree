@@ -8,38 +8,38 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 const languages = [
-  { name: "JavaScript", logo: "/js.png" },
-  { name: "TypeScript", logo: "/ts.png" },
-  // { name: "Solidity", logo: "/solidity.svg" },
-  { name: "C++", logo: "/c++.png" },
-  { name: "Java", logo: "/java.png" },
-  { name: "Python", logo: "/python.png" },
-  { name: "PHP", logo: "/php.png" },
+  { name: "JavaScript", logo: "js.png" },
+  { name: "TypeScript", logo: "ts.png" },
+  // { name: "Solidity", logo: "solidity.svg" },
+  { name: "C++", logo: "c++.png" },
+  { name: "Java", logo: "java.png" },
+  { name: "Python", logo: "python.png" },
+  { name: "PHP", logo: "php.png" },
 ];
 const frameworks = [
 
   // { name: "Angular", logo: "/ng.png" },
-  { name: "Node & Express", logo: "/NodeJs.png" },
-  { name: "React", logo: "/React.png" },
-  { name: "Next", logo: "/next.webp" },
-  { name: "Laravel", logo: "/laravel.png" },
-  { name: "Django", logo: "/dj.png" },
-  { name: "SpringBoot", logo: "/spring.png" },
-  { name: "React Native", logo: "/rn.png" },
-  { name: "HTML", logo: "/html-5.png" },
-  { name: "CSS", logo: "/css-3.png" },
+  { name: "Node & Express", logo: "NodeJs.png" },
+  { name: "React", logo: "React.png" },
+  { name: "Next", logo: "next.webp" },
+  { name: "Laravel", logo: "laravel.png" },
+  { name: "Django", logo: "dj.png" },
+  { name: "SpringBoot", logo: "spring.png" },
+  { name: "React Native", logo: "rn.png" },
+  { name: "HTML", logo: "html-5.png" },
+  { name: "CSS", logo: "css-3.png" },
 ];
 
 const databasesAndTools = [
-  { name: "MongoDB", logo: "/mongo.png" },
-  { name: "MySql", logo: "/mySQL.png" },
-  { name: "PostgreSQL", logo: "/pg.png" },
-  { name: "Git", logo: "/git.png" },
-  { name: "Postman", logo: "/postman.svg" },
-  { name: "Figma", logo: "/figma.png" },
-  { name: "Jira", logo: "/jira.png" },
-  { name: "AWS", logo: "/aws.png" },
-  { name: "Docker", logo: "/docker.png" },
+  { name: "MongoDB", logo: "mongo.png" },
+  { name: "MySql", logo: "mySQL.png" },
+  { name: "PostgreSQL", logo: "pg.png" },
+  { name: "Git", logo: "git.png" },
+  { name: "Postman", logo: "postman.svg" },
+  { name: "Figma", logo: "figma.png" },
+  { name: "Jira", logo: "jira.png" },
+  { name: "AWS", logo: "aws.png" },
+  { name: "Docker", logo: "docker.png" },
 ];
 
 interface SkillsProps {

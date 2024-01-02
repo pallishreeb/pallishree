@@ -22,7 +22,7 @@ export default function Projects() {
       title: "Food Ordering Website",
       description:
         "The online food shopping website is designed allows convenient browsing, selection, and purchase of various food items.",
-      image: "/foodie.jpg",
+      image: "foodie.jpg",
       gitHub:  links.project2,
       live: null,
     },
@@ -30,7 +30,7 @@ export default function Projects() {
       title: "Blog Portal",
       description:
         "Delivered a feature-rich blog application that not only provides users with a seamless reading experience but also fosters community engagement through comments.",
-      image: "/card7.png",
+      image: "card7.png",
       gitHub:  links.project3 ,
       live: null,
     },

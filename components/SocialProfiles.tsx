@@ -6,19 +6,19 @@ import Link from "next/link";
 import {links} from "@/lib/links"
 
 const images = [
-  { path: "/github.png", url: links.git, size: 30 },
+  { path: "github.png", url: links.git, size: 30 },
   {
-    path: "/linkedin.png",
+    path: "linkedin.png",
     url: links.linkedin,
     size: 30,
   },
   {
-    path: "/Email.png",
+    path: "Email.png",
     url: `mailto: ${links.email}`,
     size: 40,
   },
   {
-    path: "/yt.png",
+    path: "yt.png",
     url: "https://www.youtube.com/@shreelearning3274",
     size: 35,
   },
@@ -42,7 +42,7 @@ export default function SocialProfiles({
                 src={item?.path}
                 width={item.size}
                 height={item.size}
-                alt={item?.path?.split("/")[1].split(".")[0]}
+                alt={item?.path?.split('')[1].split(".")[0]}
                 className="cursor-pointer bg-transparent "
               />
             </Link>
