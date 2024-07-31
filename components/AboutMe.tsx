@@ -93,7 +93,7 @@ export default function AboutMe() {
           >
             <div className="lg:flex-4 ">
               <img
-                src={"profile.jpeg"}
+                src={"profile.jpg"}
                 className=" w-[12rem] h-[12rem] md:w-[20rem] lg:w-[25rem] bg-cover md:h-[20rem] lg:border-t-[6px] lg:border-l-[6px] border-slate-800 rounded-[80%] border-[6px] lg:border-b-0 lg:border-r-0 lg:rounded-lg"
                 alt="Profile"
               />
