@@ -28,7 +28,7 @@ const contacts = [
   {
     img: "yt.png",
     alt: "youtube icon",
-    href: "https://www.youtube.com/@shreelearning3274",
+    href: "https://www.youtube.com/@shreelearning3",
     text: "@shreelearning",
     size: 38,
   },

@@ -19,7 +19,7 @@ const images = [
   },
   {
     path: "yt.png",
-    url: "https://www.youtube.com/@shreelearning3274",
+    url: "https://www.youtube.com/@shreelearning3",
     size: 35,
   },
 ];
